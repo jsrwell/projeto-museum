@@ -1,10 +1,10 @@
-# Projeto Noticias Cidade
+# Projeto Museum
 
 Este projeto foi criado para aprimorar o conhecimento em front-end simulando uma pagina de um museum, com inserção de imagens e links de forma mais avançada.
 
 ## Acesso à Pagina
 
-- Link: 
+- Link: https://jsrwell.github.io/projeto-museum/
 
 ## Tecnologias
 
